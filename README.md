@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/anchal-panwar-87650b285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://anchalpanwar.github.io/portfolio" target="_blank">
+  <a href="https://anchalpanwar11.github.io/My_portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/AnchalPanwar11/" target="_blank">
